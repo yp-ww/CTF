@@ -1,4 +1,4 @@
-# Competitive Programming
+# CTF
  yp-ww's ctf submission code
 
 ## Language
